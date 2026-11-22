@@ -64,10 +64,6 @@ The repository provides processed results and analysis outputs. Complete computa
 
 All original expression datasets are publicly available through NCBI GEO under accession numbers GSE10072 and GSE75037.
 
-## Citation
-
-If you use this repository, please cite the original GEO datasets and the relevant research outputs once a manuscript or formal publication becomes available.
 
 ## License
 
-A license will be specified when the repository's intended reuse and distribution terms are finalized.
